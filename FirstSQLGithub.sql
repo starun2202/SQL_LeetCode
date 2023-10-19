@@ -8,7 +8,10 @@ Table: Students
 +---------------+---------+
 student_id is the primary key (column with unique values) for this table.
 Each row of this table contains the ID and the name of one student in the school.
- 
+
+ <a href = "https://leetcode.com/problems/students-and-examinations/?envType=study-plan-v2&envId=top-sql-50">
+
+ Reference: [a link](https://leetcode.com/problems/students-and-examinations/?envType=study-plan-v2&envId=top-sql-50)
 
 Table: Subjects
 
